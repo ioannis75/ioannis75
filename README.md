@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ioannis75
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning qiskit
+- 👀 I’m interested in quantum physics experiments that incorporate information
+- 🌱 I’m currently buying educational desktop quantum computers
 - 💞️ I’m looking to collaborate on quantum computing
 - 📫 How to reach me : ytheod@mail.ntua.gr
 
